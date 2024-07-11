@@ -1,0 +1,33 @@
+.head{
+    background-color: purple;
+    color: yellow;
+    height: 300px;
+    font-size: 30px;
+}
+marquee{
+    background-color: orange;
+    color: rgb(0, 100, 0);
+}
+.nav-bar{
+    height: 80px;
+    background-color: yellow;
+}
+.nav-bar a{
+    text-decoration: none;
+    font-size: 18px;
+}
+.nav-bar > th:hover{
+    background-color: lawngreen;
+}
+.t2 a{
+    text-decoration: none;
+}
+.t2{
+    height: 100px;
+    width: 40%;
+}
+.t2 td:hover{
+    background-color: aqua;
+} 
+
+
